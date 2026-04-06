@@ -29,7 +29,7 @@ int main (){
     cout << "Kota : ";
     getline(cin , mhs[i].alamat.kota);
     cout << "umur : ";
-    cin >> mhs[1].umur;
+    cin >> mhs[i].umur;
     cout << endl;
     cin.ignore();
 }
