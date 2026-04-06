@@ -41,7 +41,7 @@ int main() {
     for (int i = 0; i <= 4; i++)
     {
         cout << "Data index ke-" << " = ";
-        cin >> kamu[i]
+        cin >> kamu[i];
     }
     cout << endl;
 
